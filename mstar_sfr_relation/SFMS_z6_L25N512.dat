@@ -1,0 +1,14 @@
+# z = 5.896, a = 0.145, h = 0.67742, BoxSize = 25.00 Mpc/h, Ngroups_Total = 164333, Nsubhalos_Total = 169323
+# Mstar, SFR(median), SFR(16%tile), SFR(84%tile), #(gal)
+ 8.66667  0.79913  0.71149  0.99709        7
+ 9.00000  1.09212  0.86061  1.34230        8
+ 9.33333  1.44585  1.32520  1.46009        3
+ 9.66667  1.41445  1.38422  1.44469        2
+10.00000  1.83362  1.83362  1.83362        1
+10.33333      nan      nan      nan        0
+10.66667      nan      nan      nan        0
+11.00000      nan      nan      nan        0
+11.33333      nan      nan      nan        0
+11.66667      nan      nan      nan        0
+12.00000      nan      nan      nan        0
+12.33333      nan      nan      nan        0

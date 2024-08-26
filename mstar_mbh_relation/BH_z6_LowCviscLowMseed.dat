@@ -1,0 +1,14 @@
+# z = 5.896, a = 0.145, h = 0.67742, BoxSize = 50.00 Mpc/h, Ngroups_Total = 149342, Nsubhalos_Total = 163731
+# Mstar, BH mass(median), BH mass(16%tile), BH mass(84%tile), #(gal)
+ 8.66667  4.18407  4.18045  4.18816       38
+ 9.00000  4.19459  4.19075  4.20378       24
+ 9.33333  4.20614  4.20255  4.20993       11
+ 9.66667  4.23329  4.22660  4.24259        4
+10.00000  4.26901  4.26901  4.26901        1
+10.33333      nan      nan      nan        0
+10.66667      nan      nan      nan        0
+11.00000      nan      nan      nan        0
+11.33333      nan      nan      nan        0
+11.66667      nan      nan      nan        0
+12.00000      nan      nan      nan        0
+12.33333      nan      nan      nan        0

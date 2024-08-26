@@ -1,0 +1,14 @@
+# z = 5.896, a = 0.145, h = 0.67742, BoxSize = 50.00 Mpc/h, Ngroups_Total = 149234, Nsubhalos_Total = 163714
+# Mstar, metallicity(median), metallicity(16%tile), metallicity(84%tile), #(gal)
+ 8.66667 -3.05317 -3.12210 -2.93138       38
+ 9.00000 -2.74798 -2.86315 -2.63666       26
+ 9.33333 -2.54914 -2.59548 -2.43047       13
+ 9.66667 -2.33367 -2.37929 -2.26775        4
+10.00000 -2.15530 -2.15530 -2.15530        1
+10.33333      nan      nan      nan        0
+10.66667      nan      nan      nan        0
+11.00000      nan      nan      nan        0
+11.33333      nan      nan      nan        0
+11.66667      nan      nan      nan        0
+12.00000      nan      nan      nan        0
+12.33333      nan      nan      nan        0
